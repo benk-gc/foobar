@@ -3,7 +3,7 @@
 require_relative "lib/foobar/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "foobar"
+  spec.name = "benk-foobar"
   spec.version = Foobar::VERSION
   spec.authors = ["benk-gc"]
   spec.email = ["benk@example.com"]
